@@ -37,6 +37,5 @@ The Facilitation Scoping Wheel is particularly effective for initial client enga
 
 **References**
 
-Prompts inspired by Facilitation Canvas, Anthony Boobier. See https://nomad8.com/articles/facilitation-canvas
-
-Clean Questions inspired by Clean Set Up, by Caitlin Walker.
+- Prompts inspired by Facilitation Canvas, Anthony Boobier. See https://nomad8.com/articles/facilitation-canvas
+- Clean Questions inspired by Clean Set Up, by Caitlin Walker.
